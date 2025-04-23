@@ -7,6 +7,6 @@
 
 # Scripts
 
-## skipper.user.js
+## [skipper.user.js](skipper.user.js)
 
 This script allows you to skip tracks on Spotify at random intervals (the lower and upper bound can be modified).
